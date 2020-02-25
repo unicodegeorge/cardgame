@@ -1,0 +1,35 @@
+.Monk {
+    background-image: url("../characters/monk.jpg");
+    background-size: cover;
+    background-position-y: -40px;
+}
+
+.Mage {
+    background-image: url("../characters/mage.jpg");
+    background-size: cover;
+    background-position-y: -40px;
+}
+
+.entityName {
+    color: white;
+    text-align: center;
+    top: 10px;
+    position: relative;
+}
+.Devil {
+    background-image: url("../characters/devil.jpg");
+    background-size: cover;
+    background-position-x: -150px;
+}
+
+.entityHealth {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 5px;
+}
+
+.entityRace {
+    color: white;
+    text-align: center;
+}

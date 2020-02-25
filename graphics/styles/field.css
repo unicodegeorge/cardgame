@@ -1,0 +1,15 @@
+#gameField {
+    width: 70%;
+    position: relative;
+
+    left: 31%;
+    height: 100%;
+    background-image: url("../backgrounds/table_background.gif");
+    background-size: cover;
+
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    background-color: rgba(26,27,20,0.52);
+
+}

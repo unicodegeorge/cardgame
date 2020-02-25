@@ -1,0 +1,44 @@
+
+.card {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    position: relative;
+    top: 10px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.cardTopBar {
+    border: 1px solid black;
+    position: relative;
+    top: 78px;
+    width: 100%;
+    height: 5px;
+    background-color: black;
+    left: -1px;
+    background-color: #9c0e0f;
+}
+
+.cardTopBarHp {
+    position: relative;
+
+    height: 100%;
+    background-color: green;
+}
+
+.cardInfo {
+    position: relative;
+    top: 184px;
+    height: 100px;
+    background-color: black;
+    font-family: "Zapf Dingbats";
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+
+}
+
+
+
+
+
